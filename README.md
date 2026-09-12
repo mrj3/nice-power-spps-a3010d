@@ -180,3 +180,20 @@ Zapisywane dane obejmują:
 **NICE-POWER — 1.0 Stable**
 
 **Author / Autor: Marian Jędrych**
+## ☕ Support the project
+
+If you find NICE-POWER useful and would like to support its further development, you can buy me a coffee:
+
+[☕ Buy me a coffee](https://buycoffee.to/mrj3)
+
+Thank you for your support! ❤️
+
+---
+
+## ☕ Wesprzyj projekt
+
+Jeśli projekt NICE-POWER jest dla Ciebie przydatny i chcesz wesprzeć jego dalszy rozwój, możesz postawić mi kawę:
+
+[☕ Postaw mi kawę](https://buycoffee.to/mrj3)
+
+Dziękuję za wsparcie! ❤️

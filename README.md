@@ -1,5 +1,7 @@
 # NICE-POWER / KUAIQU SPPS-A3010D
 
+![NICE-POWER / KUAIQU SPPS-A3010D](docs/screenshot.png)
+
 Modern Linux GUI for the NICE-POWER / KUAIQU SPPS-A3010D programmable laboratory DC power supply.
 
 ## Version

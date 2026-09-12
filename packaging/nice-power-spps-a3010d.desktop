@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=NICE-POWER
+GenericName=Sterowanie zasilaczem NICE-POWER
+Comment=Sterowanie i monitoring zasilacza laboratoryjnego
+Exec=/usr/bin/nice_power_spps_a3010d
+Icon=nice-power-spps-a3010d
+Terminal=false
+Categories=Utility;Electronics;
+StartupNotify=true
+StartupWMClass=nICE-POWER
+X-GNOME-WMClass=Nice-power
